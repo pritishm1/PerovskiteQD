@@ -11,4 +11,5 @@ Similarly Files "A2BBX6_1_3.ipynb" and "A2BBX6_2_2.ipynb" are feature generation
 File "EgPredict.ipynb" is python based jupyter notebook for training regression models and using best model for prediction of hypothetical compositions. Files "single_eg.xlsx" and "double_eg.xlsx" are the resulting predictions.
 
 #Any data used from this repository should be cited as : ACS Nano 2025, 19, 6, 6107–6119
+
 #Full paper can be found here: https://doi.org/10.1021/acsnano.4c13500
